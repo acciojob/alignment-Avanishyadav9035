@@ -1,27 +1,16 @@
 /*  your css code here. If applicable */
-  table {
-            width: 100%;
+table {
+            width: 80%;
             border-collapse: collapse;
+            margin: 20px auto;
         }
         th, td {
             border: 1px solid black;
             padding: 5px;
             text-align: left;
         }
-        .center {
-            text-align: center;
-        }
-        .right {
-            text-align: right;
-        }
-        .green {
-            background-color: green;
-        }
-        .blue {
-            background-color: blue;
-        }
-        img {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
+        .center { text-align: center; }
+        .right { text-align: right; }
+        .green { background-color: green; height: 30px; }
+        .blue { background-color: blue; height: 30px; }
+        img { width: 100%; height: auto; display: block; }

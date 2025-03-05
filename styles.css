@@ -11,6 +11,9 @@ table {
         }
         .center { text-align: center; }
         .right { text-align: right; }
-        .green { background-color: green; height: 30px; }
-        .blue { background-color: blue; height: 30px; }
+        .green { background-color: green; height: 1px; }
+        .blue { background-color: blue; height: 1px; }
         img { width: 100%; height: auto; display: block; }
+.one {
+	 width: 30%;
+}
